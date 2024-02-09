@@ -1,0 +1,2 @@
+2024-02-09 20:52:04.124 [main] WARN  com.example.demo.controllers.CartController - User not found
+2024-02-09 20:52:04.164 [main] INFO  com.example.demo.controllers.CartController - Item added to cart Successfully
